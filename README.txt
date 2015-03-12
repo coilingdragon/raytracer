@@ -1,4 +1,5 @@
-NOTE: 
+This project was written during my computer graphics class, please note that one requirement of this project was to build it in an object oriented fashion. This means that the code is not organized in a normal C coding conventions. The txt files hold the source files for the images, the location of various objects and such. The ray tracer will build the images as ppm files. ppm files were chosen because of ease of the formatting of the file. 
+
 extra's implemented:
 spotlights
 transparency
@@ -24,5 +25,3 @@ the index of refraction is put on the line below the transparency percentage
 lens:
 a concave lens made from a hollow half sphere
 
-not working fully with refraction, errors and segmentation faults surrounding
-the internal refractions of the half-sphere concave lens
